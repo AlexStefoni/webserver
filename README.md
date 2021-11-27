@@ -15,7 +15,7 @@ am folosit maven cu  dependente pentru jsoup,mochito,junit5,jackson
 
 o sa revin aici pt ca am cam grabit toata treaba scuzati
 
-i installed an run spotbugs for static Static Analysis
+#Static Analysis
 
 ![image](https://user-images.githubusercontent.com/62361292/143662653-2c9f3d6b-8896-4151-bc2f-7e1329b0628d.png)
 
@@ -23,7 +23,7 @@ i installed an run spotbugs for static Static Analysis
 i also got an IDE fatal error and i have no idea what it means
 ![image](https://user-images.githubusercontent.com/62361292/143662692-e9414dc4-dfaa-49db-a7f4-344775f3ea8c.png)
 
-i run yourkit for the dynamic analisis
+#dynamic analisis
 ![image](https://user-images.githubusercontent.com/62361292/143663396-75efa568-7857-43c3-8b7a-f993a8420a18.png)
 ![image](https://user-images.githubusercontent.com/62361292/143663413-d174af6e-1fe6-43e4-816e-a6dd73204c58.png)
 ![image](https://user-images.githubusercontent.com/62361292/143663450-1df6dd57-60fa-4a2e-9821-5508d43dcf0d.png)
